@@ -1,0 +1,3 @@
+[submodule "sixfeetup_hovercraft"]
+	path = sixfeetup_hovercraft
+	url = git@github.com:sixfeetup/sixfeetup_hovercraft.git
