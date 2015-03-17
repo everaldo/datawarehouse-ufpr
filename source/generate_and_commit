@@ -1,0 +1,7 @@
+#!/bin/bash
+
+hovercraft -t ../sixfeetup_hovercraft slides.rst output
+cd output/
+git add .
+git commit -m 'automatic generated'
+git push origin gh-pages
