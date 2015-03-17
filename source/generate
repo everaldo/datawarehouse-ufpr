@@ -1,0 +1,3 @@
+#!/bin/bash
+
+hovercraft -t ../sixfeetup_hovercraft slides.rst output
