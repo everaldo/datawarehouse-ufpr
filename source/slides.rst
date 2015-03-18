@@ -219,12 +219,13 @@ Conclusões
 * É um dos tipos de sistemas existentes nas organizações. Todos colaboram para 
   que elas atingam seus objetivos. Esse atua em nível gerencial.
 
-
+* Data Marts podem ser utilizados para reduzir os custos, ter mais rapidez na implantação
+  e atender um público específico.
 
 ----
 
 Lista de Exercícios!!!!!!
-======================
+=========================
 ----
 
 
