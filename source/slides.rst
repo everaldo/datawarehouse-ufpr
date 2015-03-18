@@ -15,9 +15,6 @@ Everaldo Gomes - 18/03/2015
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Data Warehouse (*Armazém de Dados*)
@@ -59,9 +56,6 @@ Contexto (Disciplina)
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Data Warehouse (composição)
@@ -93,9 +87,6 @@ Data Warehouse (objetivos)
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Exemplos!!!
@@ -128,9 +119,6 @@ Data Mart
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Data Warehouse (Características)
@@ -162,9 +150,6 @@ Data Warehouse (Resumo do Processo)
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Mais exemplos de Aplicações
@@ -190,9 +175,6 @@ Dúvidas????
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Big Data
@@ -225,11 +207,6 @@ Big Data vs. Data Warehouse
 
 ----
 
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
-
-
 
 
 Conclusões
@@ -260,10 +237,6 @@ Conclusões
 Lista de Exercícios!!!!!!
 =========================
 ----
-
-:data-scale: 5
-:data-rotate: 90
-:data-y: 6000
 
 
 Referências Bibliográficas
